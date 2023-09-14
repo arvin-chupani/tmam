@@ -1,5 +1,5 @@
 body{
-   background-image: url("arvin4.jpeg");
+   background-image: url("poster_7ccce9da-0c9d-44a3-9a71-f5380e056c19.jpeg");
    background-attachment: fixed;
    margin: 0;
 }
@@ -21,7 +21,7 @@ body{
     opacity: 1;
 }
 .flex div{
-    background-color: aliceblue;
+    background-color: rgb(0, 0, 0);
     margin: 5px;
     border-radius: 10px;
 }
@@ -40,7 +40,7 @@ body{
     padding: 10px;
 }
 .arvin86{
-    color: brown;
+    color: rgb(255, 255, 255);
 }
 h1{
     color: brown;
